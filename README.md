@@ -1,6 +1,6 @@
-# LAN Automation on DNA Controller.
+# LAN Automation on DNA Center.
 
-Description : Collaborated in the development of LAN Automation, an application built on the DNA controller platform. This
+Description : Collaborated in the development of LAN Automation, an application built on the DNA Center platform. This
 project, focused on automating the onboarding and provisioning of factory default switches into the fabric underlay nodes
 while implementing IP routing.
 
