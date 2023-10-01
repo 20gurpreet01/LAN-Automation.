@@ -12,4 +12,4 @@ scalability and reliability.
 * Improved Code Coverage : Designed and implemented JUnit test cases, significantly boosting code coverage for
 network orchestration services.
 
-![image](https://github.com/20gurpreet01/Secure-Intelligent-Steering/blob/main/SIS%20Pic.png)
+![image](https://github.com/20gurpreet01/LAN-Automation./blob/main/LAN-Automation.png)
