@@ -6,7 +6,6 @@ while implementing IP routing.
 
 * Enhanced User Interface : Developed an intuitive UI using React.js, along with a robust backend powered by
 Java Spring Boot
-* Traffic Redirection : Developed a Protocol and App-ID based filtering system to ensure robust redirection of secure traffic.
 * Seamless Integration : Successfully integrated LAN Automation with a Maglev infrastructure, enhancing
 scalability and reliability.
 * Improved Code Coverage : Designed and implemented JUnit test cases, significantly boosting code coverage for
