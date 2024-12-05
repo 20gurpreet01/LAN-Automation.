@@ -6,9 +6,9 @@ while implementing IP routing.
 
 * Enhanced User Interface : Developed an intuitive UI using React.js, along with a robust backend powered by
 Java Spring Boot
-* Seamless Integration : Successfully integrated LAN Automation with a Maglev infrastructure, enhancing
-scalability and reliability.
-* Improved Code Coverage : Designed and implemented JUnit test cases, significantly boosting code coverage for
-network orchestration services.
+* LAN Automation Webex Chatbot : A one-stop solution for all the LAN automation customer queries, powered by
+GPT-4o, Webhooks, WebexAPI, Python, and Chroma database ensuring real-time, precise, and seamless responses.
+* LogExplorer Integration : Integrated LAN Automation with Log Collector, Analyser and Resolver, thus
+preventing any code breakage in future
 
 ![image](https://github.com/20gurpreet01/LAN-Automation./blob/main/LAN-Automation.png)
